@@ -1,0 +1,7 @@
+aliyun_python_sdk_alinlp==1.0.20
+aliyun_python_sdk_core==2.15.0
+beautifulsoup4==4.12.3
+betterproto==1.2.5
+lxml==5.1.0
+Requests==2.31.0
+websocket_client==1.7.0
