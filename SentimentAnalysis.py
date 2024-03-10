@@ -9,8 +9,8 @@ from aliyunsdkcore.client import AcsClient
 from aliyunsdkcore.acs_exception.exceptions import ClientException
 from aliyunsdkcore.acs_exception.exceptions import ServerException
 
-access_key_id = 'LTAI5t6uGZMyLyh9dFtqkMv9'
-access_key_secret = 'ncZLWoI1KPteklC3MXMrRwrVEyHhzY'
+access_key_id = ''
+access_key_secret = ''
 # 创建AcsClient实例
 client = AcsClient(
     access_key_id,
